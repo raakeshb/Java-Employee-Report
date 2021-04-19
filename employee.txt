@@ -1,0 +1,35 @@
+Employee Name: Raakesh Balaji
+Employee Id: 1
+Faculty
+Gross Salary: 19000.0
+Deductions: 4783.0
+NetSalary: 14217.0
+*********************************************
+Employee Name: John Snow
+Employee Id: 2
+Non-Faculty
+Gross Salary: 937.5
+Deductions: 19.2
+NetSalary: 918.3
+*********************************************
+***Report***
+Date and Time 2021/04/19 18:20:39
+#################################
+Total Number of Employees: 2
+Total Number of Faculty Count: 1
+Total Number of Non-Faculty Count: 1
+#################################
+Employee Name: Raakesh Rock
+Employee Id: 3
+Non-Faculty
+Gross Salary: 828.75
+Deductions: 19.2
+NetSalary: 809.55
+*********************************************
+***Report***
+Date and Time 2021/04/19 18:56:10
+#################################
+Total Number of Employees: 1
+Total Number of Faculty Count: 0
+Total Number of Non-Faculty Count: 1
+#################################
